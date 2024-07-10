@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safra Siyam</h1>
-<h3 align="center">As an SE undergraduate, I'm passionate about technology and coding.</h3>
+<h3 align="center">As a SE undergraduate, I'm passionate about technology and coding.</h3>
 
 <p align="left"> <a href="https://twitter.com/safra_siyam" target="blank"><img src="https://img.shields.io/twitter/follow/safra_siyam?logo=twitter&style=for-the-badge" alt="safra_siyam" /></a> </p>
 
